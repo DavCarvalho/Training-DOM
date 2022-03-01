@@ -1,0 +1,40 @@
+/*
+body {
+  min-height: 100vw;
+  background: rgb(219, 175, 219);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#openModal {
+  background: rgb(126, 2, 126);
+  color: white;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  border-radius: 0.25rem;
+}
+
+.modal-wrapper {
+  visibility: hidden;
+  position: fixed;
+  background: rgb(190, 190, 190);
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.close {
+  padding: 2rem;
+  text-align: center;
+  border-radius: 0.25rem;
+  background: white;
+}
+
+*/
